@@ -1,0 +1,15 @@
+:root{
+    /* colors */
+    --primary:#fff;
+    --secondary:#5C62EC;
+    --dark-text:#171718;
+
+
+    /* background-color */
+    --primary-bg:#171718;
+    --secondary-bg:#5C62EC;
+    --white-bg: #fff;
+
+    /* background-border */
+    --border-black:#26292D;
+}
