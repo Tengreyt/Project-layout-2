@@ -1,0 +1,30 @@
+.footer{
+    background-color: var(--primary-bg);
+    padding: 62px 0px 0px ;
+}
+
+.icons-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+.icons-footer img {
+    cursor: pointer;
+}
+
+.footer-title{
+    margin-top: 27px;
+    padding-bottom: 48px;
+    text-align: center;
+}
+
+.footer-text{
+    color: var(--white-bg);
+    font-family:'DM Sans', sans-serif;
+    line-height: 150%;
+    font-size: 16px;
+    font-weight: 400;
+
+}

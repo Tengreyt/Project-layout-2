@@ -50,7 +50,8 @@
 }
 
 .project-text{
-    padding: 15px 0 25px 20px;
+    display: block;
+    margin: 15px 20px 25px 20px;
     font-family:'DM Sans', sans-serif;
     text-align: left;
     font-size: 24px;
@@ -58,3 +59,21 @@
     line-height: 130%;
     color: var(--dark-text);
 }
+
+.adap-no{
+    margin-left: 20px;
+    font-size: 20px;
+    font-family:'DM Sans', sans-serif;
+    text-decoration:line-through;
+    color: grey;
+    opacity: 0.6;
+}
+
+.adap-yes{
+    margin-left: 20px;
+    font-size: 20px;
+    font-family:'DM Sans', sans-serif;
+    color: grey;
+    opacity: 0.6;
+}
+
